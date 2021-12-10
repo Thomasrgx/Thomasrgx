@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a cybersecurity engineer working in Toulon, France.
+I'm a cybersecurity engineer working for Sopra Steria in Paris, France.
 
 NOW
 
