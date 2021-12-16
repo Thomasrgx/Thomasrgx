@@ -2,7 +2,7 @@
 
 I'm a cybersecurity engineer working for Sopra Steria in Paris, France.
 
-NOW
+My work
 
 - 🔭 Currently working in collaboration with Thales Group on [Watcher](https://github.com/thalesgroup-cert/Watcher)
 
